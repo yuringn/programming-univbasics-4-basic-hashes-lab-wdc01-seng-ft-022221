@@ -7,10 +7,11 @@ def my_hash
 {name:"Yuri", age:"29"}
 end
 my_hash
+
 def pioneer
 {:name => "Grace Hopper"}
 end
-
+pioneer
 
 def id_hash_generator(number)
 {:id => number}
